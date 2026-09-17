@@ -36,29 +36,22 @@ The project supports repository initialization, file staging, commits, pushing c
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
-MyGit/
-│
+backend/
+├── config/
 ├── controllers/
-│   ├── init.js
-│   ├── add.js
-│   ├── commit.js
-│   ├── push.js
-│   ├── pull.js
-│   └── revert.js
-│
+├── middleware/
+├── models/
 ├── myGit/
-│   ├── staging/
-│   └── commits/
-│
+├── routes/
+├── .env
+├── .gitignore
+├── config.json
 ├── index.js
 ├── package.json
-├── .env
-└── README.md
-```
-
+└── package-lock.json
 ---
 
 ## ⚙️ Installation
