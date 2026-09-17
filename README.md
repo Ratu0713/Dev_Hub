@@ -36,7 +36,7 @@ The project supports repository initialization, file staging, commits, pushing c
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 backend/
